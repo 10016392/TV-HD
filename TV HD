@@ -24,3 +24,5 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:0,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:,0, CONECTA TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
